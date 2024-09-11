@@ -92,11 +92,17 @@ header {
 }
 
 .image-container1 {
-    display: grid;
+    /* display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
     grid-column-gap: 0px;
-    padding-bottom: 10%;
+    padding-bottom: 10%; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 50px;
+    grid-row-gap: 0px;
+    border-radius: 10%;
 
 }
 
