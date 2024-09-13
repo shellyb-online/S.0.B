@@ -100,10 +100,8 @@ header {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
-    grid-column-gap: 50px;
+    grid-column-gap: 23px;
     grid-row-gap: 0px;
-    border-radius: 10%;
-
 }
 
 .home-asset h1 {
